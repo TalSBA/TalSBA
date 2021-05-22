@@ -2,7 +2,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Tal and I'm a software/frontend developer. I'm from Israel and currently looking for Frontend position. You can find me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tal-shabtay-6ba23593/)
+My name is Tal and I'm a Frontend/Software developer. I'm from Israel and currently looking for Frontend position. You can find me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tal-shabtay-6ba23593/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
